@@ -417,3 +417,8 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 1307,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
 1308,3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S
 1309,3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C
+1310,1,"Lilian, Miss. Lília",female,35,0,0,PC 17757,85.0,,C
+1311,3,"Silva, Mr. João",male,22,0,0,A/5 21171,7.25,,S
+1312,2,"Almeida, Mrs. Maria",female,58,1,1,113803,26.0,,S
+1313,3,"Costa, Mr. Pedro",male,19,0,0,373450,8.05,,Q
+1314,1,"Gomes, Dr. Ricardo",male,45,1,0,PC 17599,83.5,,C

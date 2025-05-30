@@ -64,4 +64,6 @@ X_final = test[features]
 test_preds = model.predict(X_final)
 
 # Mostra os 10 primeiros resultados da predição
-print("Previsões para o test.csv (10 primeiros):", test_preds[:10])
+#print("Previsões para o test.csv (10 primeiros):", test_preds[:10])
+print(test_preds)
+
